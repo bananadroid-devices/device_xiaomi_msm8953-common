@@ -217,7 +217,7 @@ ro.telephony.iwlan_operation_mode=legacy
 ro.telephony.call_ring.multiple=false 
 ro.vold.umsdirtyratio=20 
 ro.ril.disable.power.collapse=0 
-ro.telephony.default_network=22,20 
+ro.telephony.default_network=9,9
 service.qti.ims.enabled=1
 
 # SoC
