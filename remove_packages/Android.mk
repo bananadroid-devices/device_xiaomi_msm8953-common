@@ -43,7 +43,16 @@ LOCAL_OVERRIDES_PACKAGES := \
           VzwOmaTrigger \
           WallpapersBReel2020 \
           YouTube \
-          YouTubeMusicPrebuilt 
+          YouTubeMusicPrebuilt \
+          Velvet \
+          Chrome \
+          Chrome-Stub \
+          MarkupGoogle \
+          WellbeingPrebuilt \
+          Gmail2 \
+          Duo \
+          Keep \
+          
 
 LOCAL_UNINSTALLABLE_MODULE := true
 LOCAL_CERTIFICATE := platform
